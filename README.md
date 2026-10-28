@@ -58,8 +58,8 @@ Es también mi proyecto práctico de **GitHub Foundations**: cada pieza del repo
 5. El issue se cierra solo y la tarjeta pasa a Hecho.
 
 **Día 1: base**
-- [ ] Crear el repositorio y este README
-- [ ] Añadir la licencia MIT (archivo LICENSE)
+- [x] Crear el repositorio y este README
+- [x] Añadir la licencia MIT (archivo LICENSE)
 - [ ] Crear la estructura de carpetas
 - [ ] Activar la protección de rama en main
 

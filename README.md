@@ -60,12 +60,12 @@ Es también mi proyecto práctico de **GitHub Foundations**: cada pieza del repo
 **Día 1: base**
 - [x] Crear el repositorio y este README
 - [x] Añadir la licencia MIT (archivo LICENSE)
-- [ ] Crear la estructura de carpetas
-- [ ] Activar la protección de rama en main
+- [x] Crear la estructura de carpetas
+- [x] Activar la protección de rama en main
 
 **Día 2: organización**
-- [ ] Etiquetas y plantillas de issue
-- [ ] Plantilla de pull request
+- [x] Etiquetas y plantillas de issue
+- [x] Plantilla de pull request
 - [ ] Tablero de Projects con los 3 proyectos como issues
       
 **Día 3: publicación**

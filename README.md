@@ -66,17 +66,17 @@ Es también mi proyecto práctico de **GitHub Foundations**: cada pieza del repo
 **Día 2: organización**
 - [x] Etiquetas y plantillas de issue
 - [x] Plantilla de pull request
-- [ ] Tablero de Projects con los 3 proyectos como issues
+- [x] Tablero de Projects con los 3 proyectos como issues
       
 **Día 3: publicación**
-- [ ] Activar GitHub Pages desde /docs
-- [ ] Páginas de inicio y roadmap
-- [ ] README de perfil enlazando a este repo
+- [x] Activar GitHub Pages desde /docs
+- [x] Páginas de inicio y roadmap
+- [x] README de perfil enlazando a este repo
       
 **Día 4: seguridad y pulido**
-- [ ] Dependabot y SECURITY.md
-- [ ] Al menos 3 pull requests propios fusionados
-- [ ] Enlace añadido a LinkedIn y al CV
+- [x] Dependabot y SECURITY.md
+- [x] Al menos 3 pull requests propios fusionados
+- [x] Enlace añadido a LinkedIn y al CV
 ## Licencia
  
 MIT

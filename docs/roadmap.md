@@ -1,28 +1,28 @@
 ---
 layout: default
-title: Home
+title: Roadmap
 ---
 
-# DevOps Journey
+[Home](./)
 
-Hi, I'm Victor. I'm building my path towards a **Cloud / DevOps** career, focused on AWS, automation and infrastructure as code. I'm looking for my first role as a Junior DevOps / Cloud Engineer.
+# Roadmap
 
-This site documents my progress: certifications, projects and what I learn along the way.
+My path from GitHub fundamentals to infrastructure as code on AWS. Each step has a certification and a project that proves it. I update this page as each step is completed.
 
-## What you'll find here
+| Step | Certification | Project | Status |
+|------|---------------|---------|--------|
+| 1 | GitHub Foundations | [devops-journey](https://github.com/VictorPinero21/devops-journey) | In progress |
+| 2 | GitHub Actions | Project 1: CI/CD pipeline | Planned |
+| 3 | AWS Solutions Architect Associate | Project 2: AWS app deployed from Actions | Planned |
+| 4 | Terraform Associate | Project 3: Infrastructure as code | Planned |
 
-- [Roadmap](roadmap): certifications and projects, with their current status.
-- [Source repository](https://github.com/VictorPinero21/devops-journey): every change goes through issues and pull requests.
+## Projects
 
-## Current focus
+### Project 1: CI/CD pipeline with GitHub Actions
+A complete pipeline for a small API: lint, tests, Docker build, vulnerability scan, publish to GitHub Container Registry and automatic release.
 
-- Studying for **GitHub Foundations** while building this repository.
-- Next: GitHub Actions and the first CI/CD project.
+### Project 2: AWS app deployed from Actions
+A three-tier app on AWS (load balancer, containers, database) inside a VPC, deployed from GitHub Actions with OIDC instead of static keys.
 
-## Tools I work with and learn
-
-Git and GitHub, GitHub Actions, AWS, Terraform, Docker, Linux and Python.
-
-## Contact
-
-- [GitHub](https://github.com/VictorPinero21)
+### Project 3: Infrastructure as code with Terraform
+The same stack rebuilt with Terraform: own modules, remote state, separate environments and a pipeline that plans on pull requests and applies on merge.
